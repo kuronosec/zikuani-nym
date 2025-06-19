@@ -11,7 +11,7 @@ Nym provides a couple of standalone binaries to connect appliactions to the mixi
 
 ## Run the nym TcpProxy commands
 
-You have to run a couple of commands to make the TcpProxy work and be able to send TCP packages to a specific Ethereum RPC endpoint (And in general to any Web site). For instance:
+You have to run a couple of commands to make the TcpProxy work and be able to send and receive TCP packages to a specific Ethereum RPC endpoint (And in general to any Web site). For instance:
 
 ```bash
 # Run into separate console windows
